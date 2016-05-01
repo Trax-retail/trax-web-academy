@@ -1,6 +1,8 @@
 body {
+  height: 100vh;
   font-family: 'Alef', sans-serif;
-  background: url('img/bg3.jpeg') 0 0 / cover no-repeat;
+  background: url('img/bg3.jpeg') center no-repeat;
+  background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
