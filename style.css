@@ -1,0 +1,17 @@
+body {
+  font-family: 'Alef', sans-serif;
+  background: url('img/bg3.jpeg') 0 0 / cover no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+.syllabus {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.syllabus ul {
+  padding-left: 0;
+}
