@@ -29,11 +29,12 @@ h3 {
 .syllabus {
   max-width: 500px;
   margin: 40px auto 20px;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Mono', sans-serif;
   font-size: 20px;
-  background: #000;
+  background: hsl(37, 8%, 21%);
   padding: 14px 40px 30px;
   opacity: 0.85;
+  text-shadow: 1px 1px 1px hsl(0, 0%, 0%);
 }
 
 .join {
