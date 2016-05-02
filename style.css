@@ -20,16 +20,6 @@ a:hover {
   color: hsl(184, 100%, 88%);
 }
 
-#github-link {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-}
-
-#github-link .fa-github {
-  font-size: 100px;
-}
-
 h1 {
   max-width: 1400px;
   margin: 0 auto;
@@ -46,7 +36,7 @@ h3 {
   font-size: 50px;
 }
 
-#syllabus {
+.syllabus {
   max-width: 500px;
   margin: 40px auto 20px;
   font-family: 'PT Mono', sans-serif;
