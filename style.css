@@ -2,7 +2,7 @@ body {
   height: 100vh;
   font-family: 'PT Sans Caption', sans-serif;
   color: #fff;
-  background: #000 url('img/bg1.jpeg') center no-repeat;
+  background: #000 url('img/bg.jpeg') center no-repeat;
   background-size: cover;
 }
 
